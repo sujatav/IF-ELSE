@@ -1,0 +1,165 @@
+var a=prompt('enter days')
+var b=prompt('enter mealtime')
+if (b=="breakfast"){
+    console.log('poori sabji')
+}else if(b=="lunch"){
+  console.log('roti,daal,sambar,rice')
+}else if(b=="dinner"){
+  console.log('chapati,sambar,rice')
+}else{
+  console.log('OKAZY')
+}
+let g="hello"
+console.log(g)
+
+let h="suji"
+console.log(h)
+
+let i='sukanya'
+console.log(i)
+
+const x=5;
+console.log(x)
+
+const z=7;
+console.log(z)
+
+const s=3454;
+console.log(s)
+
+let f=23
+{
+  let g=49
+  console.log(g)
+}
+console.log(f)
+
+let k=612;
+{
+  let j=546
+  console.log(j)
+}
+console.log(k)
+
+let O=8105;
+{
+  let p=9087;
+  console.log(p)
+  let q=7658;
+  console.log(q)
+}
+console.log(O)
+
+//const x=223;
+//{
+  //const x=90;
+  //console.log(x)
+  //const y=09;
+   //console.log(y)
+  //}
+  //const u=087;
+  //console.log(u)
+//}yhis code explzin us HOISTING DECLARE ONLY NOT ASSAING
+//console.log(x) this code will be given error bcz it doesnt have the correct declaration okay that sand const bwe should use in only one time bcz its 
+//constant and 
+ // DATA TYPEs
+const number=3;
+const number2=98;
+const number3=3e5
+console.log(number3)
+console.log(number2)
+
+var l=567;
+console.log(typeof l)
+
+var m="sujata"
+var j="forest"
+var t="gorilla"
+console.log(m+j+t)
+v="22.45"
+console.log(typeof v)
+
+p=6786538;
+console.log(typeof p)
+
+q=547465842178230n;
+console.log(typeof q)
+
+const $=56/67;
+console.log(number)
+console.log(typeof $)
+
+const oil=3/-3;
+console.log(oil);
+
+const time="abc"/67;
+console.log(time)
+console.log(typeof time)
+
+const red="colours"/4567;
+console.log(red);
+console.log(typeof red)
+let data="company"/5637;
+console.log(data);
+console.log(typeof data)
+
+const dell=null;
+console.log(dell)
+console.log(typeof dell)
+
+const road='running'
+console.log(road)
+console.log(typeof road)
+console.log(road+road)
+
+const w=Symbol("hello")
+const w1=Symbol('hello')
+console.log(w)
+console.log(w1)
+
+//let p=;
+//console.log(p);
+//above ex shows that it is undefined bcz its not correct fdefined
+//why it is dynamically typed language =we didnt not need to defined datatype in this type its automatically taken that data type thats wwhy it is called dynamically typed language. but another we have to defining dspecific data type as a string ,number,null,like this....
+//OPERATORS in operators their are mainly 7 types of data types they are
+//1)assaignment operators
+//2)arithmetic opetrators
+//3)comparison operators
+//4)logical operators
+//5)bitwise operators
+//6)TERNARY operators
+//in assaingment operators=we can assaign the one operator values to another operators called assignment operators.
+//== eqaul to
+//=== stictly equal to (value and data type we are using)
+//!= not equal to
+//2)arithmetic operators= we can use the arithmetic 
+// for + = addition
+// for - = substraction
+// for /=division
+// for *=exponentiation
+//for %= modulus
+// for ++ = increment
+// for --= decrement
+//3) comparison operators=we can used to comapre the two operators with one another so thats why we calle dit as comparison operators
+// for< = lesser than
+// for > = grater than
+// for < == lesser than or equal to
+// for >== greaterthan or equal to
+//4)logical operators = we can use the logical operators for logicalkly comparison with checking of two conditions like 
+//1) AND OPERATOR = &&
+//2) OR OPERATOR = ||
+//3) NOT OPERATOR = !
+//5) bitwise operators= we can use the bitwise operators in special situations and checking the more than one conditions like
+//1)BITWISE OR OPERATORS= XOR
+//2) BITWISE NOT OPERATORS=~
+//LIKE TRUTH TABLE IN XOR
+//TRUE+ TRUE=TRUE 0+0=1
+// TRUE +FALSE= TRUE 0 +1=1
+// FALSE+TRUE= TRUE 1+0=1
+// FALSE+FALSE=FALSE
+//
+//BITWISE NOT ~
+// TRUE =FALSE
+//FALSE=TRUE
+// TERNAry operators= used for checking questioning statement like ? marks in conditions 
+// and arguments
